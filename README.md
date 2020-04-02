@@ -19,7 +19,22 @@ mysql> show databases;
 ## 题目2：如何join两张表
 
 ```sql
-sfgbhjsgfyug u
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| class              |
+| databasetest       |
+| here               |
+| mysql              |
+| one                |
+| performance_schema |
+| sys                |
+| test               |
+| two                |
++--------------------+
+10 rows in set (0.00 sec)
 ```
 
 ## 题目3： xxxx
