@@ -35,6 +35,13 @@ mysql> show databases;
 | two                |
 +--------------------+
 10 rows in set (0.00 sec)
+
+mysql> create table test2(
+    -> name varchar(20),
+    -> number int(2)
+    -> );
+Query OK, 0 rows affected (0.04 sec)
+
 ```
 
 ## 题目3： xxxx
