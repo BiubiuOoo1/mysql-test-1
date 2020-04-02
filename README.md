@@ -1,7 +1,6 @@
 姓名：王逸健
 学号：17061524
 
-
 ## 题目1：建立一个mysql database, 包含以下两张表：
 
 ```sql
@@ -18,6 +17,10 @@ mysql> show databases;
 ```
 
 ## 题目2：如何join两张表
+
+```sql
+sfgbhjsgfyug u
+```
 
 ## 题目3： xxxx
 
