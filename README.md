@@ -45,7 +45,6 @@ Query OK, 0 rows affected (0.04 sec)
 ```
 
 ## 题目3： xxxx
-王逸健
-17061524
+![](https://github.com/silverdays/mysql-test-1/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20190603204721.png)
 
 ## 题目4： xxxx
